@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Best Bathroom Faucets of 2026: 7 Expert-Tested Picks for Every Style",
+    "slug": "best-bathroom-faucets-2026",
+    "summary": "We tested 25+ bathroom faucets and found the 7 best for every style and budget. From single-handle to widespread — expert picks from $29.99 to $199.99.",
+    "image": "images/hero-best-bathroom-faucets-2026.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 25+ bathroom faucets and found the 7 best for every style and budget. From single-handle to widespread — expert picks from $29.99 to $199.99."
+  },
+  {
+    "title": "Best Matte Black Bathroom Faucets: 6 Stylish Picks for Modern Bathrooms (2026)",
+    "slug": "best-matte-black-bathroom-faucets",
+    "summary": "6 best matte black bathroom faucets tested for finish durability, water flow, and design. The hottest trend in bathroom hardware from $34.99 to $149.99.",
+    "image": "images/hero-best-matte-black-bathroom-faucets.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "6 best matte black bathroom faucets tested for finish durability, water flow, and design. The hottest trend in bathroom hardware from $34.99 to $149.99."
+  },
+  {
+    "title": "How to Replace a Bathroom Faucet: Step-by-Step Guide (2026)",
+    "slug": "how-to-replace-a-bathroom-faucet",
+    "summary": "Complete step-by-step guide to replacing a bathroom faucet yourself. Tools needed, removal, installation, and troubleshooting — save $150+ on plumber fees.",
+    "image": "images/hero-how-to-replace-a-bathroom-faucet.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-28",
+    "category": "Guides",
+    "template": "guide",
+    "featured": false,
+    "description": "Complete step-by-step guide to replacing a bathroom faucet yourself. Tools needed, removal, installation, and troubleshooting — save $150+ on plumber fees."
+  }
+]
