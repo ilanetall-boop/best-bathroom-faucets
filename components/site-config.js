@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/bathroom-faucets-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroom-faucets-20",
-  gaId: "",
+  gaId: "G-G5YE0SPWC4",
   colors: {
     primary: "#004D40",
     primaryLight: "#00796B",
