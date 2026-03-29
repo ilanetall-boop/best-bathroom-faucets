@@ -8,7 +8,7 @@ window.SITE_CONFIG = {
   tagline: "Expert reviews for stylish bathroom faucets",
   logo: "images/bathroom-faucets-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
-  affiliateTag: "bestbathroomfaucets-20",
+  affiliateTag: "bestbathroom-faucets-20",
   gaId: "",
   colors: {
     primary: "#004D40",
