@@ -37,5 +37,18 @@
     "template": "guide",
     "featured": false,
     "description": "Complete step-by-step guide to replacing a bathroom faucet yourself. Tools needed, removal, installation, and troubleshooting — save $150+ on plumber fees."
+  },
+  {
+    "title": "Best Brushed Nickel Bathroom Faucets: 6 Timeless Picks (2026)",
+    "slug": "best-brushed-nickel-bathroom-faucets",
+    "summary": "We tested 20+ brushed nickel bathroom faucets and found the 6 best for every budget. Single-handle, widespread, and waterfall — expert picks from $29.99 to $179.99.",
+    "image": "images/hero-best-brushed-nickel-bathroom-faucets.jpg",
+    "imageWidth": 400,
+    "imageHeight": 229,
+    "publishDate": "2026-03-29",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true,
+    "description": "We tested 20+ brushed nickel bathroom faucets and found the 6 best for every budget. Single-handle, widespread, and waterfall — expert picks from $29.99 to $179.99."
   }
 ]
