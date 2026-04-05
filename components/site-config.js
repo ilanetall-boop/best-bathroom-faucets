@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Bathroom Faucets",
   domain: "best-bathroom-faucets.com",
   tagline: "Expert reviews for stylish bathroom faucets",
-  logo: "images/bathroom-faucets-logo.svg",
+  logo: "images/bathroom-faucets-logo.svg?v=2",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroom-faucets-20",
   gaId: "G-G5YE0SPWC4",
