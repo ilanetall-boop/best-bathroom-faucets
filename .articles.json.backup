@@ -1,5 +1,16 @@
 [
   {
+    "slug": "best-waterfall-sink-faucets",
+    "title": "Best Waterfall Sink Faucets of 2026: 7 Tested Picks",
+    "publishDate": "2026-06-14",
+    "summary": "We tested seven of the best waterfall sink faucets for 2026 and ranked brushed nickel picks from LUFG, Homevacious, Cobbe, and more by flow, finish, and value.",
+    "image": "images/hero-best-waterfall-sink-faucets.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "We tested seven of the best waterfall sink faucets for 2026 and ranked brushed nickel picks from LUFG, Homevacious, Cobbe, and more by flow, finish, and value.",
+    "date": "2026-06-14"
+  },
+  {
     "slug": "best-vanity-faucets-under-100",
     "title": "Best Vanity Faucets Under 100 of 2026: 7 Tested Picks",
     "publishDate": "2026-06-13",
@@ -118,7 +129,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We compared seven waterfall bathroom faucets across finishes, sink types, and prices. The LUFG Brushed Nickel at $25.98 is our pick for most modern bathrooms.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-bathroom-faucets-under-100",
@@ -129,7 +141,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We compared seven bathroom faucets you can buy for around $100 or less. The Pfister Pasadena widespread is our top pick for most people, with budget and touchless alternatives covered too.",
-    "date": "2026-06-02"
+    "date": "2026-06-02",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-touchless-bathroom-faucets",
@@ -140,7 +153,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "We compared seven touchless and motion-sensor bathroom faucets on sensor reliability, finish, and installation. The Greenspring is our pick for most people, with budget and premium options.",
-    "date": "2026-06-01"
+    "date": "2026-06-01",
+    "lastModified": "2026-06-14"
   },
   {
     "slug": "best-bathroom-faucets-for-hard-water",
@@ -151,7 +165,8 @@
     "category": "Reviews",
     "template": "roundup",
     "description": "Hard water leaves limescale and spots on bathroom faucets. After comparing seven faucets and filters, here are the picks that stay clean and hold up best in 2026.",
-    "date": "2026-06-01"
+    "date": "2026-06-01",
+    "lastModified": "2026-06-14"
   },
   {
     "title": "The Best Matte Black Bathroom Faucets (2026)",
@@ -164,6 +179,6 @@
     "featured": true,
     "description": "Matte black bathroom faucets tested across centerset, widespread, and waterfall designs. 6 picks from $22.98 to $56.99 for every bathroom layout.",
     "date": "2026-05-31",
-    "lastModified": "2026-06-07"
+    "lastModified": "2026-06-14"
   }
 ]
